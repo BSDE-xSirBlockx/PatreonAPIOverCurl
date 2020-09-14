@@ -4,7 +4,6 @@ Just the patreon api for php over curl
 Installing:
 > composer require xsirblockx/patreonapi
 
-Usage:
 
 ```php
 //Usage
