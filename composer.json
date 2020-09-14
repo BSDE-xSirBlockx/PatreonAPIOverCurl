@@ -1,0 +1,21 @@
+{
+    "name": "xsirblockx/patreonapi",
+    "description": "Patreons API with curl useable with PHP",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Flo",
+            "email": "flo@blockstone.de"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.3"
+    },
+    "autoload": {
+        "psr-4": {
+            "": "src/"
+        }
+    }
+}
